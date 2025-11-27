@@ -53,7 +53,25 @@ superstore-sales-analysis/
 - Discount Distribution
 
 ## 💡 Insights
-(Add after your analysis)
+# 8. Business Insights  
+### Key Findings:
+- Technology category generates the highest sales.  
+- West region is the most profitable.  
+- Discounts above **0.3** reduce profit drastically.  
+- Shipping delays average **3 days**.  
+- A small number of products contribute to the majority of sales.  
+
+---
+
+### What the Business Should Do:
+- Increase marketing on **Furniture** (low sales, moderate profit)  
+- Reduce heavy discounts (hurts margins)  
+- Improve shipping operations in regions with long delays  
+- Promote top 10 best-selling products  
+- Expand operations in **West** region  A
+
+---
+
 
 ## 🛠 Tools Used
 - Python (Pandas, NumPy, Matplotlib)
