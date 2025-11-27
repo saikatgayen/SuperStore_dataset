@@ -15,7 +15,7 @@ superstore-sales-analysis/
 ├── sql/
 │   ├── create_tables.sql
 │   ├── data_cleaning_queries.sql
-│   ├── analysis_queries.sql
+│   └── analysis_queries.sql
 │
 ├── notebooks/
 │   └── superstore_analysis.ipynb
@@ -37,6 +37,8 @@ superstore-sales-analysis/
 │   └── dashboard.png
 │
 └── README.md
+
+
 
 
 ## 3. Key Steps
