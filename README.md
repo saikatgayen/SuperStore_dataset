@@ -1,12 +1,12 @@
 # Superstore Sales Analysis (Python + SQL Project)
 
-## 📌 Project Overview
+## 1. Project Overview
 This project performs end-to-end sales analysis of the Superstore dataset using:
 - Python (Pandas, NumPy)
 - SQL (MySQL Workbench)
 - Matplotlib for visualizations
 
-## 📂 Project Structure
+## 2. Project Structure
 superstore-sales-analysis/
 │
 ├── data/
@@ -39,21 +39,21 @@ superstore-sales-analysis/
 └── README.md
 
 
-## 🔍 Key Steps
+## 3. Key Steps
 - Data cleaning
 - Exploratory data analysis
 - SQL analysis
 - Data visualization
 - Business insights
 
-## 📊 Visual Outputs
+## 4. Visual Outputs
 - Sales by Category
 - Monthly Sales Trend
 - Profit by Region
 - Discount Distribution
 
-## 💡 Insights
-# 8. Business Insights  
+## 5. Insights
+# Business Insights  
 ### Key Findings:
 - Technology category generates the highest sales.  
 - West region is the most profitable.  
