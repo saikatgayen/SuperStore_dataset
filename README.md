@@ -6,7 +6,7 @@ This project performs end-to-end sales analysis of the Superstore dataset using:
 - SQL (MySQL Workbench)
 - Matplotlib for visualizations
 
-### 2. Project Structure
+## 2. Project Structure
 superstore-sales-analysis/
 │
 ├── data/
