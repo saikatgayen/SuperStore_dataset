@@ -7,37 +7,7 @@ This project performs end-to-end sales analysis of the Superstore dataset using:
 - Matplotlib for visualizations
 
 ## 2. Project Structure
-superstore-sales-analysis/
-│
-├── data/
-│   └── superstore.csv
-│
-├── sql/
-│   ├── create_tables.sql
-│   ├── data_cleaning_queries.sql
-│   └── analysis_queries.sql
-│
-├── notebooks/
-│   └── superstore_analysis.ipynb
-│
-├── python_scripts/
-│   ├── load_and_clean.py
-│   ├── eda.py
-│   ├── visualizations.py
-│   └── utils.py
-│
-├── outputs/
-│   ├── cleaned_data.csv
-│   ├── charts/
-│   │   ├── sales_by_category.png
-│   │   ├── monthly_sales_trend.png
-│   │   ├── profit_by_region.png
-│   │   ├── discount_distribution.png
-│   │   └── best_selling_products.png
-│   └── dashboard.png
-│
-└── README.md
-
+![alt text](image.png)
 
 
 
